@@ -1,0 +1,80 @@
+Я вижу  # I See
+Он видит  # He sees
+Я увижу # I will see
+Я не увижу  # I will not see
+Я не вижу # I don`t see
+Он не видит # He doesn`t see
+Мы не видели  # We didn`t see
+Ты видел? # Did you see?
+ты увидишь? # Will you see?
+Ты придешь? # Will you come?
+Он приходил?  # Did he come?
+Я работаю # I work
+Я не буду работать  # I will not work
+Я открою  # I will open
+Я открыл  # I opened
+Ты открываешь?  # Do you open?
+Она открывает?  # Does she open?
+Ты открыл?  # Did you open?
+Ты откроешь?  # Will you open?
+Я не буду отрывать  # I will not open
+Мы не открывали # We didn`t open
+Я закрою  # I will close
+А ты закроешь?  # Will you close?
+Я закрыл  # I closed
+Она не закрыла  # She didn`t close
+Я не закрываю # I don`t close
+И он не закрывает # He doesn`t close
+Я спрошу  # I will ask
+Ты спрашивал? # Did you ask?
+Я не буду отвечать  # I will not answer
+Я ответил # I answered
+Ты будешь отвечать? # Will you answer?
+Он не отвечает  # He doesn`t answer
+Мы дали # We gave
+Вы дадите?  # Will you give?
+Они не дадут  # They will not give
+Я возьму  # I will take
+Я взял  # I took
+А ты возьмешь?  # Will you take?
+Я не возьму # I will not take
+Я помогу  # I will help
+Он не помог # He did not help
+Но он поможет # But he will help
+А ты поможешь?  # Will you help?
+Я надеюсь # I hope
+Он надеется # He hopes
+А ты надеешься? # Do you hope?
+Я не надеялся, но буду надеяться  # I didn`t hope, but i will hope
+Мы поговорим  # We will speak
+Вы поговорите?  # Will you speak?
+Мы поговорили # We spoke
+Они не говорили # They didn`t speak
+Вы путешествовали?  # Did you travel?
+Вы будете путешествовать? # Will you travel?
+Я не путешествовал, но буду путешествовать  # I didn`t travel, but i will travel
+Он путешествует?  # Does he travel?
+Он путешествует # He travels
+Я вижу тебя # I see you
+ты видешь меня  # You see me
+Он видит ее # He sees her
+Она не видит его  # She doesn`t see him
+Мы видели их  # We saw them
+Они не видели нас # They did not see us
+Я знаю тебя # I know you
+Но ты не знаешь меня  # But you do not know me
+Он знает ее # He knows her
+Она не знала его  # She didn`t know him
+Она узнает его  # She will know him
+Что ты взял?  # What did you take?
+Какая проблема? # What problem do you have?
+С чего ты взял? # Why do you think?
+Где ты живешь?  # Where do you live?
+Где он работает?  # Where dooes hi work?
+Куда она пошла? # Where did she go?
+Когда ты его увидишь? # When will you see him?
+Как ты работаешь? # How do you work?
+Как она работает? # How does she work?
+Где ты путешествовал? # Where did you travel?
+Когда ты будешь путешествовать? # When will you travel?
+Где они путешествуют? # Where do they travel?
