@@ -39,7 +39,7 @@
 А ты возьмешь?  # Will you take?
 Я не возьму # I will not take
 Я помогу  # I will help
-Он не помог # He did not help
+Он не помог # He didn`t help
 Но он поможет # But he will help
 А ты поможешь?  # Will you help?
 Я надеюсь # I hope
@@ -60,7 +60,7 @@
 Он видит ее # He sees her
 Она не видит его  # She doesn`t see him
 Мы видели их  # We saw them
-Они не видели нас # They did not see us
+Они не видели нас # They didn`t see us
 Я знаю тебя # I know you
 Но ты не знаешь меня  # But you don`t know me
 Он знает ее # He knows her
