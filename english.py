@@ -7,6 +7,8 @@ class MyWindow(Gtk.Window):
   def __init__(self):
     Gtk.Window.__init__(self, title="Hello World")
     self.set_border_width(10)
+    self.connect("delete_event", self.event_delete)
+    self.connect("destroy", self.event_close)
 
     self.box = Gtk.Box(orientation=Gtk.Orientation.VERTICAL, spacing=10)
     self.add(self.box)
@@ -48,7 +50,13 @@ class MyWindow(Gtk.Window):
     self.answer = self.entry.get_text()
     self.entry.set_text('')
     self.update_status()
-    
+
+  def event_delete(self, event, data=None):
+    return False
+
+  def event_close(self, widget, data=None):
+    Gtk.main_quit()
+
   def update_status(self):
     all_answer = self.i_right + self.i_err
     if all_answer == 0 and self.answer == '':
@@ -70,7 +78,6 @@ class MyWindow(Gtk.Window):
 
 
 win = MyWindow()
-win.connect("delete-event", Gtk.main_quit)
 win.show_all()
 
 win.l_stats.set_text('Top result: 20.06.2015 - 0/0\n\nCount of questions: {0}\n'.format(win.count_dic))

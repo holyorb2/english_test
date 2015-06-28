@@ -62,7 +62,7 @@
 Мы видели их  # We saw them
 Они не видели нас # They did not see us
 Я знаю тебя # I know you
-Но ты не знаешь меня  # But you do not know me
+Но ты не знаешь меня  # But you don`t know me
 Он знает ее # He knows her
 Она не знала его  # She didn`t know him
 Она узнает его  # She will know him
