@@ -22,14 +22,10 @@ class MyWindow(Gtk.Window):
     self.l_quest = Gtk.Label("")
     self.box.pack_start(self.l_quest, True, True, 0)
 
-    hbox_answer = Gtk.Box(spacing=10)
-
     self.entry = Gtk.Entry()
     self.entry.set_text("")
     self.entry.connect("activate", self.on_send_enter)
-    hbox_answer.pack_start(self.entry, True, True, 0)
-
-    self.box.pack_start(hbox_answer, True, True, 0)
+    self.box.pack_start(self.entry, True, True, 0)
 
     # data variables
     self.i_right = 0
