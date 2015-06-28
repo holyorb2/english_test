@@ -26,11 +26,8 @@ class MyWindow(Gtk.Window):
 
     self.entry = Gtk.Entry()
     self.entry.set_text("")
+    self.entry.connect("activate", self.on_send_enter)
     hbox_answer.pack_start(self.entry, True, True, 0)
-
-    self.send = Gtk.Button(label="Send")
-    self.send.connect("clicked", self.on_send_clicked)
-    hbox_answer.pack_start(self.send, True, True, 0)
 
     self.box.pack_start(hbox_answer, True, True, 0)
 
@@ -46,7 +43,7 @@ class MyWindow(Gtk.Window):
         self.dic.append([line[0].strip(), line[1].strip()])
     self.count_dic = len(self.dic)
 
-  def on_send_clicked(self, widget):
+  def on_send_enter(self, widget):
     self.answer = self.entry.get_text()
     self.entry.set_text('')
     self.update_status()
